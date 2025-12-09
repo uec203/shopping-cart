@@ -3,7 +3,7 @@
 A simple and responsive **Shopping Cart application** built using **React.js**.  
 This project demonstrates basic cart functionality such as adding, removing, and updating item quantities.
 
-👉 **Live Demo:** https://uec203.github.io/Shopping_cart/
+👉 **Live Demo:** [https://uec203.github.io/Shopping_cart/](https://uec203.github.io/shopping-cart/)
 
 ---
 
